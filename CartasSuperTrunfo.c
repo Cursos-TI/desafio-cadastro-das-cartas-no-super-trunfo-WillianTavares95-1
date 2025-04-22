@@ -127,7 +127,8 @@ int main(){
    // resultado_densidade_populacional = comparacao_densidade_populacional;
 
     printf("*** Resultado das cartas ***\n");
-    printf("Carta 1:\n");
+
+    printf("***Carta 1:\n***");
 
     printf("Estado: %s\n", estado1);
     printf("Código: %s\n", codigo1);
@@ -142,7 +143,7 @@ int main(){
     printf("Calculo de todos os resultados: %.15f\n", superPoder1);
     
 
-    printf("Carta 2:\n");
+    printf("***Carta 2:\n***");
 
     printf("Estado: %s\n", estado2);
     printf("Código: %s\n", codigo2);
